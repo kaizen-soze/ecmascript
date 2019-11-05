@@ -53,8 +53,8 @@
               </code>
             </pre>
             <ul>
-              <li><a href="var.html" target="_blank">Example of Function and Global scope with var</a></li>
-              <li><a href="let.html" target="_blank">Example of block scope with let</a></li>
+              <li><a href="var.php" target="_blank">Example of Function and Global scope with var</a></li>
+              <li><a href="let.php" target="_blank">Example of block scope with let</a></li>
             </ul>
           </div>
         </div>
